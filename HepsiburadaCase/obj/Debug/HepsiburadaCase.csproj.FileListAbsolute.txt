@@ -1,0 +1,7 @@
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\bin\Debug\HepsiburadaCase.exe.config
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\bin\Debug\HepsiburadaCase.exe
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\bin\Debug\HepsiburadaCase.pdb
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\obj\Debug\HepsiburadaCase.csprojAssemblyReference.cache
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\obj\Debug\HepsiburadaCase.csproj.CoreCompileInputs.cache
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\obj\Debug\HepsiburadaCase.exe
+C:\Users\gokhan.evlek\Source\Repos\HepsiburadaCase\HepsiburadaCase\obj\Debug\HepsiburadaCase.pdb
